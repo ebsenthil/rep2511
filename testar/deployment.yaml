@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: ebsenthil/team12:latest  # Public NGINX image
+          image: ebsenthil/test123:1  # Public NGINX image
           ports:
             - containerPort: 3000  # Updated to 3000
           command: ["/bin/sh", "-c"]  # Override NGINX default port to 3000
