@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CI/CD Tools Overview</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the CI/CD Tools Overview</h1>
+    </header>
+    <section>
+        <h2>What is CI/CD?</h2>
+        <p>Continuous Integration (CI) and Continuous Deployment (CD) are modern practices to automate the process of code integration, testing, and delivery to production.</p>
+        <img src="diagrams/ci-cd-overview.png" alt="CI/CD Overview Diagram">
+    </section>
+    <section>
+        <h2>Popular CI/CD Tools</h2>
+        <ul>
+            <li><strong>Jenkins:</strong> An open-source automation server.</li>
+            <li><strong>GitLab CI/CD:</strong> Built into GitLab for seamless integration.</li>
+            <li><strong>CircleCI:</strong> A cloud-native CI/CD platform.</li>
+            <li><strong>GitHub Actions:</strong> Integrated CI/CD workflows for GitHub projects.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Why CI/CD?</h2>
+        <p>CI/CD improves software quality, reduces time-to-market, and ensures fast feedback loops.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 CI/CD Tools Website</p>
+    </footer>
+</body>
+</html>
